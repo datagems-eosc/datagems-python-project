@@ -38,19 +38,3 @@ py-modules = ["{{cookiecutter.project_slug}}"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-
-
-{% if cookiecutter.codecov == "y"-%}
-[tool.coverage.report]
-skip_empty = true
-
-[tool.coverage.run]
-branch = true
-source = [
-    {%- if cookiecutter.layout == "src" -%}
-    "src"
-    {%- else -%}
-    "{{cookiecutter.project_slug}}"
-    {%- endif -%}
-]
-{% endif %}
