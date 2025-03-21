@@ -1,12 +1,12 @@
 # {{cookiecutter.project_name}}
 
-[![Commit activity](https://img.shields.io/github/commit-activity/m/{{cookiecutter.author_github_handle}}/{{cookiecutter.project_name}})](https://img.shields.io/github/commit-activity/m/{{cookiecutter.author_github_handle}}/{{cookiecutter.project_name}})
-[![License](https://img.shields.io/github/license/{{cookiecutter.author_github_handle}}/{{cookiecutter.project_name}})](https://img.shields.io/github/license/{{cookiecutter.author_github_handle}}/{{cookiecutter.project_name}})
+[![Commit activity](https://img.shields.io/github/commit-activity/m/datagems-eosc/{{cookiecutter.project_name}})](https://img.shields.io/github/commit-activity/m/datagems-eosc/{{cookiecutter.project_name}})
+[![License](https://img.shields.io/github/license/datagems-eosc/{{cookiecutter.project_name}})](https://img.shields.io/github/license/datagems-eosc/{{cookiecutter.project_name}})
 
 {{cookiecutter.project_description}}
 
-- **Github repository**: <https://github.com/{{cookiecutter.author_github_handle}}/{{cookiecutter.project_name}}/>
-- **Documentation** <https://{{cookiecutter.author_github_handle}}.github.io/{{cookiecutter.project_name}}/>
+- **Github repository**: <https://github.com/datagems-eosc/{{cookiecutter.project_name}}/>
+- **Documentation** <https://datagems-eosc.github.io/{{cookiecutter.project_name}}/>
 
 ## Getting started with your project
 
@@ -18,7 +18,7 @@ First, create a repository on GitHub with the same name as this project, and the
 git init -b main
 git add .
 git commit -m "init commit"
-git remote add origin git@github.com:{{cookiecutter.author_github_handle}}/{{cookiecutter.project_name}}.git
+git remote add origin git@github.com:datagems-eosc/{{cookiecutter.project_name}}.git
 git push -u origin main
 ```
 

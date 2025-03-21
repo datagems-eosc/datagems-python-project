@@ -13,9 +13,6 @@ Your full name.
 
 Your email address.
 
-**author_github_handle**
-
-Your github handle, i.e. `<handle>` in `https://github.com/<handle>`
 
 **project_name**
 

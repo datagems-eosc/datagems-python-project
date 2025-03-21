@@ -1,6 +1,5 @@
 {
   "author": "Mike Xydas",
-  "author_github_handle": "MikeXydas",
   "dockerfile": [
     "y",
     "n"
