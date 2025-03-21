@@ -1,11 +1,11 @@
 {
-  "author": "Florian Maas",
-  "author_github_handle": "fpgmaas",
+  "author": "Mike Xydas",
+  "author_github_handle": "MikeXydas",
   "dockerfile": [
     "y",
     "n"
   ],
-  "email": "fpgmaas@gmail.com",
+  "email": "mxydas@athenarc.gr",
   "layout": [
     "flat",
     "src"
