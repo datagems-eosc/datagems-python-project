@@ -50,4 +50,4 @@ git push origin main
 
 ---
 
-Original cookiecutter by [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv).
+The uv-python cookiecutter was originally created in [https://github.com/fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv).

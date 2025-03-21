@@ -40,6 +40,4 @@ Follow the prompts to configure your project. Once completed, a new directory co
 
 ### Acknowledgements
 
-This project is partially based on [Audrey
-Feldroy's](https://github.com/audreyfeldroy) great
-[cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage).
+The uv-python cookiecutter was originally created in [https://github.com/fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv).
