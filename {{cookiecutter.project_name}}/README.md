@@ -5,8 +5,6 @@
 
 {{cookiecutter.project_description}}
 
-- **Github repository**: <https://github.com/datagems-eosc/{{cookiecutter.project_name}}/>
-- **Documentation** <https://datagems-eosc.github.io/{{cookiecutter.project_name}}/>
 
 ## Getting started with your project
 

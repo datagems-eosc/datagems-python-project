@@ -13,7 +13,7 @@
     "GNU General Public License v3",
     "Not open source"
   ],
-  "project_description": "This is a template repository for Python projects that use uv for their dependency management.",
+  "project_description": "This is a template repository for DataGEMS Python projects that uses uv for their dependency management.",
   "project_name": "example-project",
   "project_slug": "{{cookiecutter.project_name|lower|replace('-', '_')}}"
 }
