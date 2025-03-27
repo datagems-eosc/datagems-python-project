@@ -1,15 +1,3 @@
-<p align="center">
-  <img width="600" src="static/cookiecutter.svg">
-</p style = "margin-bottom: 2rem;">
-<style>
-  .md-typeset h1,
-  .md-content__button {
-    display: none;
-  }
-</style>
-
----
-
 This is a modern Cookiecutter template that can be used to initiate a Python project with all the necessary tools for development, testing, and deployment. It supports the following features:
 
 - [uv](https://docs.astral.sh/uv/) for dependency management
